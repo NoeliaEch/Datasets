@@ -1,0 +1,1 @@
+En este repo tengo algunos toy datasets para poder practicar data cleaning, data visualization and model creation.

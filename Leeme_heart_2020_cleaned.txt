@@ -1,0 +1,5 @@
+
+
+The dataset contains 18 variables (9 booleans, 5 strings and 4 decimals). In machine learning projects, "HeartDisease" can be used as the explonatory variable, but note that the classes are heavily unbalanced.
+
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
